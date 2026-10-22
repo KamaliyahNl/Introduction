@@ -1,3 +1,4 @@
 # Introduction
 About Me
-Hallo, I'm Nur Laila Kamaliyah. I have a Bachelor's degree in Economics Development. I learn and explore economics data, supply chain data, and sales data for making the best decision to solve the problems.
+
+Hi, I'm Nur Laila Kamaliyah, a Development Economics graduate passionate about data analytics. I leverage economics, supply chain, and sales data to uncover key insights, optimize operations, and support strategic decision-making.
